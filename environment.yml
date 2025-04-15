@@ -1,0 +1,25 @@
+name: kameneva
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - statsmodels
+
+  - scanpy
+  - anndata
+  
+  - pySCENIC
+ 
+  - umap-learn
+
+  # utility
+  - jupyterlab
+  - nb_conda_kernels
+  - pip
