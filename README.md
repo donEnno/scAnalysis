@@ -1,6 +1,6 @@
 # scAnalysis
 
-This repository contains my reproduction of the analyses performed by Kharchenko & Adameyko _et al._, published in **Nature Genetics** (2021). The original study, titled _Single-cell transcriptomics of human embryos identifies multiple sympathoblast lineages with potential implications for neuroblastoma origin_, explores transcriptional states in human embryonic development to shed light on the origins of pediatric neuroblastoma.
+This repository contains my reproduction of the analyses performed by Kameneva _et al._, published in **Nature Genetics** (2021). The original study, titled _Single-cell transcriptomics of human embryos identifies multiple sympathoblast lineages with potential implications for neuroblastoma origin_, explores transcriptional states in human embryonic development to shed light on the origins of pediatric neuroblastoma.
 
 **Link to the study**: [Nature Genetics 2021](https://www.nature.com/articles/s41588-021-00818-x)
 
